@@ -1,0 +1,7 @@
+package Login;
+message Login_CS 
+{
+   required string username = 1;
+   required string userPassWord = 2;
+   required int32  iSercetType = 3;
+}

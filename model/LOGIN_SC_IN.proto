@@ -1,0 +1,6 @@
+package Login;
+message Login_SC 
+{
+   required string rtcode = 1;
+   required int32 uid = 2;
+}

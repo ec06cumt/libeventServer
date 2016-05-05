@@ -1,0 +1,1 @@
+protoc -I=E:\work_uu\server\model --cpp_out=E:\work_uu\server\model E:\work_uu\server\model\LOGIN_CS_IN.proto
